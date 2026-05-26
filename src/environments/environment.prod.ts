@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  apiUrl: 'https://lapiz-backend.onrender.com'
+  apiUrl: 'https://intprogbackend.onrender.com'
 };
